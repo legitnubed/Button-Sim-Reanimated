@@ -36,3 +36,6 @@ A Button Simulator Game.
 <br>
 <button type="button">$1.2M = x2470</button>
 <br/>
+<br>
+<button type="button">$25M = x12k</button>
+<br/>
