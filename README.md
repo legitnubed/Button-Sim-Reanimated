@@ -4,7 +4,7 @@
 A Button Simulator Game.
 <br/>
 <br>
-THIS IS JUST A CONCEPT. I haven't learned how to code yet lmao
+<h1>THIS IS JUST A CONCEPT. I haven't learned how to code the actual system yet lmao<h1/>
 <br/>
 <br>
 <button type="button">$10 = x1</button>
