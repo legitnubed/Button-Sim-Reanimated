@@ -50,5 +50,14 @@ REBIRTH BUTTONS
 <button type="button">x10k = 1 Rebirth</button>
 <br/>
 <br>
-<button type="button">x55k = 2.5 Rebirth</button>
+<button type="button">x55k = 2.5 Rebirths</button>
+<br/>
+<br>
+<button type="button">x450k = 6 Rebirths</button>
+<br/>
+<br>
+<button type="button">x2M = 14 Rebirths</button>
+<br/>
+<br>
+<button type="button">x6M = 25 Rebirths</button>
 <br/>
