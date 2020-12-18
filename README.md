@@ -40,4 +40,15 @@ A Button Simulator Game.
 <br>
 <button type="button">$25M = x12k</button>
 <br/>
+<br>
+<button type="button">$100M = x25k</button>
+<br/>
 <h2/>
+<h2>
+REBIRTH BUTTONS
+<br>
+<button type="button">x10k = 1 Rebirth</button>
+<br/>
+<br>
+<button type="button">x55k = 2.5 Rebirth</button>
+<br/>
