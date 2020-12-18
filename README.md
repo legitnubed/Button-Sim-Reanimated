@@ -1,4 +1,5 @@
 # Button-Sim-Reanimated
+<body style="background-color:cyan;">
 <br>
 A Button Simulator Game.
 <br/>
