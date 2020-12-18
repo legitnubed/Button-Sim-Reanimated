@@ -6,6 +6,7 @@ A Button Simulator Game.
 <br>
 <h1>THIS IS JUST A CONCEPT. I haven't learned how to code the actual system yet lmao<h1/>
 <br/>
+<h2>
 <br>
 <button type="button">$10 = x1</button>
 <br/>
@@ -39,3 +40,4 @@ A Button Simulator Game.
 <br>
 <button type="button">$25M = x12k</button>
 <br/>
+<h2/>
